@@ -1,4 +1,4 @@
-## Sitara
+# Sitara
 >
 # Table of Contents
 - [Installation](#installation)
@@ -6,7 +6,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+# Installation
 >
 > To use Sitara, you will need to follow these steps:
 >
@@ -36,12 +36,12 @@ pip install -r requirements.txt
 
 5. [Add any additional installation steps if necessary, such as setting up a database or environment variables.]
 
-## Features
+# Features
 
 - Feature 1: Sitara is a music player website which play a few music and soundtracks.
 - Feature 2: Made using pure HTML, CSS, JavaScript.
 
-## Contributing
+# Contributing
 
 > Contributions to Sitara are welcome! If you would like to contribute, please follow these guidelines:
 
@@ -61,7 +61,7 @@ git checkout -b feature/my-feature
 > 
 > Please ensure that your code adheres to the project's coding conventions and includes appropriate tests.
 
-# License 
+## License 
 > The Sitara-app project is licensed under the MIT License.
 > 
 > [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/HTTP-Server-Py/blob/master/LICENSE)
