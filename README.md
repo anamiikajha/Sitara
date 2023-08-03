@@ -30,6 +30,7 @@ npm install` or `pip install -r requirements.txt
 > 6. [Additional steps, if any]:
 >
 > 1. Clone the repository using the following command:
+>    
 ```bash:
  git clone https://github.com/anamiikajha/Sitara.git
 ```
