@@ -29,17 +29,16 @@ npm install` or `pip install -r requirements.txt
 ```
 > 6. [Additional steps, if any]:
 >
-> 1. Clone the repository using the following command:
+> 7. Clone the repository using the following command:
 >
-
 ```bash:
  git clone https://github.com/anamiikajha/Sitara.git
 ```
-> 2. Navigate to the project directory:
+> 8. Navigate to the project directory:
 ```bash:
 cd Sitara
 ```
-> 3. Install the necessary dependencies using the package manager of your choice. For example, if you're using npm, run:
+> 9. Install the necessary dependencies using the package manager of your choice. For example, if you're using npm, run:
 ```
 npm install
 ```
