@@ -9,12 +9,23 @@
 
 # Installation
 >
-> To use Sitara, you will need to follow these steps:
+> 1. To use Sitara, you will need to follow these steps:
 >
-> 1. Clone the repository: `git clone https://github.com/anamiikajha/Sitara.git`
-> 2. Navigate to the project directory: `cd Sitara`
-> 3. Install the necessary dependencies: [instructions for installing dependencies, e.g., `npm install` or `pip install -r requirements.txt`]
-> 4. [Additional steps, if any]
+> 2. Clone the repository:
+ ```
+git clone https://github.com/anamiikajha/Sitara.git
+```
+> 3. Navigate to the project directory:
+ ```
+ cd Sitara
+```
+
+> 4. Install the necessary dependencies:
+> 5. Instructions for installing dependencies, e.g.,
+ ```
+npm install` or `pip install -r requirements.txt
+```
+> 6. [Additional steps, if any]:
 >
 > 1. Clone the repository using the following command:
 ```bash:
@@ -29,13 +40,13 @@ cd Sitara
 npm install
 ```
 OR
-> 4. If you're using pip, run:
+> 1. If you're using pip, run:
 ```
 pip install -r requirements.txt
 ```
-> 5. Replace requirements.txt with the appropriate file name if it differs in your project.
+> 2. Replace requirements.txt with the appropriate file name if it differs in your project.
 >
-> 6. [Add any additional installation steps if necessary, such as setting up a database or environment variables.]
+> 3. [Add any additional installation steps if necessary, such as setting up a database or environment variables.]
 >
 # Features
 - Feature 1: Sitara is a music player website which play a few music and soundtracks.
