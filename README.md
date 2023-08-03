@@ -1,4 +1,5 @@
 # Sitara
+> Sitara-app is music website which play a few music and soundtracks. Made using pure HTML, CSS, JavaScript.
 >
 # Table of Contents
 - [Installation](#installation)
