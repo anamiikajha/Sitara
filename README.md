@@ -1,6 +1,6 @@
-# Sitara
+## Sitara
 >
-## Table of Contents
+# Table of Contents
 - [Installation](#installation)
 - [Features](#features)
 - [Contributing](#contributing)
@@ -61,6 +61,7 @@ git checkout -b feature/my-feature
 > 
 > Please ensure that your code adheres to the project's coding conventions and includes appropriate tests.
 
-## License 
->
-Sitara is released under the [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/HTTP-Server-Py/blob/master/LICENSE)
+# License 
+> The Sitara-app project is licensed under the MIT License.
+> 
+> [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/HTTP-Server-Py/blob/master/LICENSE)
