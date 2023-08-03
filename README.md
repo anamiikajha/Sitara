@@ -30,6 +30,7 @@ npm install` or `pip install -r requirements.txt
 > 6. [Additional steps, if any]:
 >
 > 1. Clone the repository using the following command:
+>
 
 ```bash:
  git clone https://github.com/anamiikajha/Sitara.git
@@ -52,8 +53,8 @@ pip install -r requirements.txt
 > 3. [Add any additional installation steps if necessary, such as setting up a database or environment variables.]
 >
 # Features
-- Feature 1: Sitara is a music player website which play a few music and soundtracks.
-- Feature 2: Made using pure HTML, CSS, JavaScript.
+- Sitara is a music player website which play a few music and soundtracks.
+- Made using pure HTML, CSS, JavaScript.
 >
 # Contributing
 >
