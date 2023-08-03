@@ -12,6 +12,7 @@
 > 1. To use Sitara, you will need to follow these steps:
 >
 > 2. Clone the repository:
+> 
  ```
 git clone https://github.com/anamiikajha/Sitara.git
 ```
@@ -21,6 +22,7 @@ git clone https://github.com/anamiikajha/Sitara.git
 ```
 
 > 4. Install the necessary dependencies:
+>    
 > 5. Instructions for installing dependencies, e.g.,
  ```
 npm install` or `pip install -r requirements.txt
