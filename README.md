@@ -78,4 +78,4 @@ git checkout -b feature/my-feature
 ## License 
 > The Sitara-app project is licensed under the MIT License.
 > 
-> [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/HTTP-Server-Py/blob/master/LICENSE)
+> [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/Sitara/blob/main/LICENSE)
