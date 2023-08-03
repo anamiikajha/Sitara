@@ -60,7 +60,7 @@ pip install -r requirements.txt
 > Contributions to Sitara are welcome! If you would like to contribute, please follow these guidelines:
 >
 > 1. Fork the repository on GitHub.
-   
+> 
 > 2. Create a new branch from the main branch:
 ```bash:
 git checkout -b feature/my-feature
