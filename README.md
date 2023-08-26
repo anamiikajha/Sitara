@@ -7,6 +7,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+# Sitara Preview
+
+  ![image](https://github.com/anamiikajha/Sitara/assets/89740849/a115e7ae-403f-4460-8aa7-a400b5acfc52)
+
 # Installation
 >
 > 1. To use Sitara, you will need to follow these steps:
