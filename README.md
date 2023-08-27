@@ -9,7 +9,10 @@
 
 # Sitara Preview
 
+- Music player 
+  
   ![image](https://github.com/anamiikajha/Sitara/assets/89740849/a115e7ae-403f-4460-8aa7-a400b5acfc52)
+  
 
 # Installation
 >
